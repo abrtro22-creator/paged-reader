@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Страницы</string>
+
+    <string name="open">Открыть</string>
+    <string name="open_desc">Выбрать книгу или текстовый файл</string>
+    <string name="reading_settings">Настройки чтения</string>
+    <string name="reading_settings_short">Aa</string>
+    <string name="font_size">Размер шрифта</string>
+    <string name="done">Готово</string>
+
+    <string name="loading">Готовим страницы…</string>
+
+    <string name="empty_title">Книга не открыта</string>
+    <string name="empty_subtitle">Выберите файл .txt или .fb2 — текст автоматически разобьётся на страницы. Листать можно свайпом или касанием у края экрана.</string>
+
+    <string name="no_book">Файл не выбран</string>
+    <string name="plain_text">Текстовый файл</string>
+    <string name="font_size_value">%1$d sp</string>
+    <string name="page_counter">%1$d / %2$d</string>
+    <string name="page_counter_empty">—</string>
+
+    <string name="prev_page">Предыдущая страница</string>
+    <string name="next_page">Следующая страница</string>
+    <string name="font_size_sample">Так будет выглядеть текст на странице. Выберите удобный размер.</string>
+</resources>
